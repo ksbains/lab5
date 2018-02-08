@@ -21,8 +21,7 @@ function initializePage() {
 
 	$("#submitBtn").submit(function (event){
 		event.preventDefault();
-	
-		console.log()
+		console.log("the submit has been pressed, not sure how this is connected to the add route??")
 	})
 }
 
